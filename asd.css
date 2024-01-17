@@ -1,0 +1,22 @@
+h3{
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(251, 255, 0);
+    border-radius: 20px;
+    background-color: yellow;
+}
+img{
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(255, 0, 0);
+    border-radius: 20px;
+    background-color: rgb(255, 0, 0);
+}
+    
+div{
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(251, 255, 0);
+    border-radius: 20px;
+    background-color: rgb(251, 255, 0);
+}
